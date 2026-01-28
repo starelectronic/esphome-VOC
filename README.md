@@ -1,6 +1,6 @@
 ---
 title: esphome-VOC sensor
-date-published: 2025-11-29 14:22:59 +0100
+date-published: 2026-01-28 14:22:59 +0100
 type: sensor
 standard: global
 board: esp32
