@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="/pic/VOC_sensor_front">
+  </p>
 ---
 title: esphome-VOC sensor
 date-published: 2026-01-28 14:22:59 +0100
