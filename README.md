@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/pic/VOC_sensor_front">
+  <img src="/pic/VOC_sensor_front.jpg">
   </p>
 ---
 title: esphome-VOC sensor
