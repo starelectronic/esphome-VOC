@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="/pic/VOC_sensor_front.jpg">
-  </p>
 ---
 title: esphome-VOC sensor
 date-published: 2026-01-28 14:22:59 +0100
@@ -11,6 +8,10 @@ difficulty: 1
 made-for-esphome: false
 project-url: https://github.com/starelectronic/esphome-VOC.git
 ---
+
+<p align="center">
+  <img src="/pic/VOC_sensor_front.jpg">
+  </p>
 
 # ESP32-WROOM-32E VOC sensor
 
@@ -31,6 +32,8 @@ The VOC sensor is designed to provide real-time data on air quality, utilizing t
 |------|----------|-------------|
 | GPIO02 | RGB LED | WS2812 addressable LED |
 | GPIO13 | Buzzer | Built-in buzzer |
+| GPIO21 | SDA | I2C SDA pin |
+| GPIO22 | SCL | I2C SCL pin |
 
   - [ESPHome Configuration File](esphome-VOC.yaml)
 
